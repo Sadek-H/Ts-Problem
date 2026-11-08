@@ -9,7 +9,7 @@ It covers basic types, functions, optional/default/rest parameters, readonly tup
 ## Files Included
 
 - `solutions.ts` – Contains solutions to the assigned TypeScript problems.
- – Blog post about TypeScript concepts.
+ – `Blog Posts` -Blog post about TypeScript concepts.
 
 
 ## Blog Posts
