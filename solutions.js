@@ -33,6 +33,13 @@ console.log(processInput(7));
 console.log(processInput(true));
 console.log(processInput(false));
 //problem 3
+function formatCoordinate(coordinate) {
+    const [latitude, longitude, locationName] = coordinate;
+    return `"Location : ${locationName} (${latitude}, ${longitude})"`;
+}
+console.log(formatCoordinate([23.81, 90.41, "Dhaka"]));
+console.log(formatCoordinate([22.35, 91.78, "Chittagong"]));
+console.log(formatCoordinate[0] = 30);
 //problem 4
 function concatenateArrays(...arrays) {
     const array = [];
